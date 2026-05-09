@@ -229,3 +229,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 <p align="center">
   Built with ❤️ by <a href="https://github.com/Lumos-Labs-HQ">Lumos Labs</a>
 </p>
+"This line was added with a coauthor!" 
